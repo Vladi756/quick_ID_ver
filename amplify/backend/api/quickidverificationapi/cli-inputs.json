@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/hello-world": {
+      "name": "/hello-world",
+      "lambdaFunction": "quickidverificationlambda",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

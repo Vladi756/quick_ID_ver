@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quickidverification-dev-151306-authRole",
+      "UnauthRoleArn": "arn:aws:iam::489152442964:role/amplify-quickidverification-dev-151306-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::489152442964:role/amplify-quickidverification-dev-151306-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-quickidverification-dev-151306-deployment",
+      "UnauthRoleName": "amplify-quickidverification-dev-151306-unauthRole",
+      "StackName": "amplify-quickidverification-dev-151306",
+      "StackId": "arn:aws:cloudformation:eu-west-2:489152442964:stack/amplify-quickidverification-dev-151306/7e551e60-70c1-11ed-bbee-0ac09455b1d8",
+      "AmplifyAppId": "dxfzszcz74b4k"
+    },
+    "categories": {
+      "function": {
+        "quickidverificationlambda": {}
+      }
+    }
+  }
+}
